@@ -200,7 +200,7 @@ pt: &DEFAULT_PT
   comments_label             : "Deixe um comentário"
   comments_title             :
   more_label                 : "Aprenda Mais"
-  related_label              : "Talvez Você Goste Também"
+  related_label              : "Talvez Também Goste"
   follow_label               : "Acompanhe em"
   feed_label                 : "Feed"
   powered_by                 : "Feito por"
@@ -208,7 +208,7 @@ pt: &DEFAULT_PT
   email_label                : "E-mail"
   recent_posts               : "Postagens recentes"
   undefined_wpm              : "Parâmetro indefinido em word_per_minute no _config.yml"
-  comment_form_info          : "Seu endereço de e-mail não será publicado. Campos obrigatórios são marcados"
+  comment_form_info          : "O seu endereço de e-mail não será publicado. Campos obrigatórios são marcados"
   comment_form_comment_label : "Comentário"
   comment_form_md_info       : "Markdown é suportado"
   comment_form_name_label    : "Nome"
@@ -216,9 +216,9 @@ pt: &DEFAULT_PT
   comment_form_website_label : "Website (opcional)"
   comment_btn_submit         : "Enviar Comentário"
   comment_btn_submitted      : "Enviado"
-  comment_success_msg        : "Obrigado por seu comentário! Ele será exibido no site depois de aprovado."
+  comment_success_msg        : "Obrigado pelo seu comentário! Será exibido no site após ser aprovado."
   comment_error_msg          : "Desculpe, houve um erro com o seu envio. Certifique-se de que todos os campos obrigatórios foram preenchidos e tente novamente."
-  loading_label              : "Carregando..."
+  loading_label              : "A carregar..."
 pt-BR:
   <<: *DEFAULT_PT
 pt-PT:

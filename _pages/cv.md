@@ -11,37 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* MSc in Neuroscience, University of Lisbon, 2025 (expected)
+* MD, NOVA Medical School, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2024: MSc thesis at Champalimaud Foundation
+  * Lab of Natural Intelligence
+  * Thesis project: Facilitating human divergent thinking through LLM microalignment
+  * Supervisor: Daniel McNamee
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan - Dec 2020: Clinical internship year (Internato de Formação Específica)
+  * West Lisbon Hospital Centre / Centro Hospitalar de Lisboa Ocidental (CHLO)
+  * Internships in Internal Medicine (stroke unit), Pediatrics, General Surgery, Family Medicine and Public Health 
+  * Certification for autonomous medical practice
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Jan 2023 - Sep 2024: general physician at Family Medicine practice
+  * UCSP Amadora
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Clinical practice
+* Programming
+  * Python
+  * JavaScript
+  * C#
+* Machine Learning
 
-Publications
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
